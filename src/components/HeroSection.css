@@ -1,0 +1,33 @@
+.hero {
+    background: url('https://raw.githubusercontent.com/thatanjan/netflix-clone-yt/youtube/media//banner.jpg') center center / cover no-repeat;
+    height: 80vh;
+    width: 100%;
+    opacity: 50%;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .hero h1 {
+    font-size: 5rem;
+    margin-bottom: 20px;
+  }
+  
+  .hero h2 {
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+  }
+  
+  .hero-button {
+    padding: 10px 20px;
+    background: #e50914;
+    border: none;
+    color: #fff;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
